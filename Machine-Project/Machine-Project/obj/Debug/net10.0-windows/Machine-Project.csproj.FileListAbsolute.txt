@@ -1,0 +1,16 @@
+C:\Users\niko\source\repos\Machine-Project\Machine-Project\bin\Debug\net10.0-windows\Machine-Project.exe
+C:\Users\niko\source\repos\Machine-Project\Machine-Project\bin\Debug\net10.0-windows\Machine-Project.deps.json
+C:\Users\niko\source\repos\Machine-Project\Machine-Project\bin\Debug\net10.0-windows\Machine-Project.runtimeconfig.json
+C:\Users\niko\source\repos\Machine-Project\Machine-Project\bin\Debug\net10.0-windows\Machine-Project.dll
+C:\Users\niko\source\repos\Machine-Project\Machine-Project\bin\Debug\net10.0-windows\Machine-Project.pdb
+C:\Users\niko\source\repos\Machine-Project\Machine-Project\obj\Debug\net10.0-windows\Machine_Project.Form1.resources
+C:\Users\niko\source\repos\Machine-Project\Machine-Project\obj\Debug\net10.0-windows\Machine-Project.csproj.GenerateResource.cache
+C:\Users\niko\source\repos\Machine-Project\Machine-Project\obj\Debug\net10.0-windows\Machine-Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\niko\source\repos\Machine-Project\Machine-Project\obj\Debug\net10.0-windows\Machine-Project.AssemblyInfoInputs.cache
+C:\Users\niko\source\repos\Machine-Project\Machine-Project\obj\Debug\net10.0-windows\Machine-Project.AssemblyInfo.cs
+C:\Users\niko\source\repos\Machine-Project\Machine-Project\obj\Debug\net10.0-windows\Machine-Project.csproj.CoreCompileInputs.cache
+C:\Users\niko\source\repos\Machine-Project\Machine-Project\obj\Debug\net10.0-windows\Machine-Project.dll
+C:\Users\niko\source\repos\Machine-Project\Machine-Project\obj\Debug\net10.0-windows\refint\Machine-Project.dll
+C:\Users\niko\source\repos\Machine-Project\Machine-Project\obj\Debug\net10.0-windows\Machine-Project.pdb
+C:\Users\niko\source\repos\Machine-Project\Machine-Project\obj\Debug\net10.0-windows\Machine-Project.genruntimeconfig.cache
+C:\Users\niko\source\repos\Machine-Project\Machine-Project\obj\Debug\net10.0-windows\ref\Machine-Project.dll
